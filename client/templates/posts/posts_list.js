@@ -32,3 +32,4 @@ Template.postsList.helpers({
 
 });
 
+
