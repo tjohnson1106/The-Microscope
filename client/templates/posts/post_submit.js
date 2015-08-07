@@ -9,4 +9,3 @@ post._id = Posts.insert(post);
 Router.go('postPage', post);
 }
 });
-client/templates/
